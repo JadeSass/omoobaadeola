@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 Route::post('/affiliate/subscribe', function(){
     $email = request('email');
@@ -27,5 +27,3 @@ Route::post('/affiliate/subscribe', function(){
 
 
 Auth::routes();
-
-Route::get('/access/6-figures', 'HomeController@index')->name('home');
