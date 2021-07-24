@@ -52,7 +52,7 @@
                                     <img src="{{ url('img/IMG-20210723-WA0023.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/proof-2.png') }}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ url('img/IMG-20210723-WA0024.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
                                     <img src="{{ url('img/proof-3.png') }}" class="responsive-img materialboxed center-align" alt="proof">
