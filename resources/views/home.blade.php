@@ -55,10 +55,10 @@
                                     <img src="{{ url('img/IMG-20210723-WA0024.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/proof-3.png') }}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ url('img/IMG-20210723-WA0025.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div>
                                 <p class="red-text center-align">Don't miss out.</p>
-                                <a href="https://wa.link/k42c0k" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
+                                <a href="https://wa.link/543zxd" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
                                 <h5 class="center-align"> <b>Disclaimer</b> <br> The results in this training are not typical and will require implementation. It is also not in any way part of Facebook and Alphabet Inc.</h5>
                             </div>
                         </div>
