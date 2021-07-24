@@ -43,22 +43,26 @@
 
                         <h6 style="line-height: 35px;">Watch the video and be ready to start making the most profit of your life using WhatsApp. But, you'd better hurry. The video will be deleted in just a few more days.</h6><br>
                         <div class="access center-align">
-                            <a href="https://wa.link/k42c0k" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a> <br> <br>
+                            <div class="butn center center-align">
+                            <a href="https://wa.link/543zxd" class="btn green btn-large white-text" style="padding-top: 20px; border-radius:10px; text-transform: none; font-size:20px; line-height:10px;"><i class="fa fa-caret-right"></i> <b>Give Me The Link</b></a>
+                        </div>
                             <h5><b>BELOW ARE SOME TESTIMONIES OF MY STUDENTS THAT STARTED MAKING <b class="red-text">6-7 FIGURES MONTHLY</b> AFTER THEY WATCHED THE SAME VIDEO I'M ABOUT TO SEND YOU NOW.</b></h5> <br> <br>
                         </div>
                         <div class="image-testimonies containe center-align">
                             <div class="row center-align">
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/IMG-20210723-WA0023.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
+                                    <img src="{{ asset('img/IMG-20210723-WA0023.jpg') }}" class="responsive-img materialboxed center-align" alt="proof"><br>
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/IMG-20210723-WA0024.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ asset('img/IMG-20210723-WA0024.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div><br>
                                 <div class="col s12 m12 l12 xl12 center-align">
-                                    <img src="{{ url('img/IMG-20210723-WA0025.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
+                                    <img src="{{ asset('img/IMG-20210723-WA0025.jpg') }}" class="responsive-img materialboxed center-align" alt="proof">
                                 </div>
                                 <p class="red-text center-align">Don't miss out.</p>
-                                <a href="https://wa.link/543zxd" class="btn btn-flat btn-large green darken-3 white-text"><b>Send the video</b></a><br><br>
+                                <div class="butn center center-align">
+                            <a href="https://wa.link/543zxd" class="btn green btn-large white-text" style="padding-top: 20px; border-radius:10px; text-transform: none; font-size:20px; line-height:10px;"><i class="fa fa-caret-right"></i> <b>Give Me The Link</b></a>
+                        </div>
                                 <h5 class="center-align"> <b>Disclaimer</b> <br> The results in this training are not typical and will require implementation. It is also not in any way part of Facebook and Alphabet Inc.</h5>
                             </div>
                         </div>
